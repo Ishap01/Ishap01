@@ -44,17 +44,17 @@ Recently completed internships at **Cognizant (MERN Stack)** and **Codec Technol
 ---
 
 ## 🚀 Highlighted Projects  
+### 🏢 [HR Management System](https://hrxpert-frontend-nm98d4kra-isha-patils-projects-71a30dce.vercel.app/)
+- Secure login & **role-based access**  
+- CRUD operations for employees & departments  
+- Built with **React, Node.js, MongoDB, Tailwind CSS**
 
-### 🚦 Smart Traffic Management System  
+  
+### 🚦 Smart Traffic Management System
 - AI-powered real-time monitoring with **YOLO**  
 - Detects & prioritizes emergency vehicles (ambulances 🚑)  
 - Helps reduce traffic delays & saves lives  
 
-### 🏢 HR Management System  
-- Secure login & **role-based access**  
-- CRUD operations for employees & departments  
-- Built with **React, Node.js, MongoDB, Tailwind CSS**  
- 
 ---
 
 ## 🎯 Beyond Coding  
